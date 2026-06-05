@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Suhayb Zeyne
 
-<!--
-**suhaybzed482k/suhaybzed482k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at Thomas Jefferson High School for Science and Technology (TJHSST) interested in Artificial Intelligence (AI), Machine Learning (ML), Robotics, and Engineering. I enjoy building projects that combine hardware and software to solve real-world problems and learning new technologies through hands-on experience.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 
+
+## 🏆 Experience & Achievements
+
+* 
+
+## 💻 Skills & Technologies
+
+**Programming Languages**
+
+* Python
+* Java
+* HTML/CSS
+* Arduino
+
+**Engineering & Technical Skills**
+
+* Microcontrollers
+* Electronics & Circuit Design
+* Problem Solving
+* Technical Research
+* Project Development
+
+**Currently Learning**
+
+* Machine Learning
+* Artificial Intelligence
+* Robotics
+* CAD & 3D Design
+
+## 📂 Repositories
+
+This GitHub contains:
+
+* Learning Projects
+* Personal Projects
+* Engineering Projects
+* Competition Projects
+* Resources and Notes
+
+## 📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/suhayb-zeyne-88761238a
+* Email: suhaybzed@gmail.com
+
+Thanks for stopping by!
