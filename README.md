@@ -14,18 +14,13 @@ I'm a student at Thomas Jefferson High School for Science and Technology (TJHSST
 
 **Programming Languages**
 
-* Python
-* Java
-* HTML/CSS
-* Arduino
+* Python • Java • HTML/CSS • Arduino • and many more :)
+
 
 **Engineering & Technical Skills**
 
-* Microcontrollers
-* Electronics & Circuit Design
-* Problem Solving
-* Technical Research
-* Project Development
+* Microcontrollers • Electronics & Circuit Design
+* Problem Solving • Technical Research • Project Development
 
 **Currently Learning**
 
